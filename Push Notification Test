@@ -11,7 +11,7 @@ if you can't make any app registering for Google Cloud Messaging, try the follow
 
 open the Phone app and dial the following: *#*#2432546#*#* (or  *#*#CHECKIN#*#*)
 
-For this I download the app [push notification tester ](https://github.com/los-legacy/Troubleshooting/releases/download/v1.0/com.firstrowria.pushnotificationtester_2.9.apk) or from the PlayStore.
+For this I download the app [push notification tester](https://github.com/los-legacy/Troubleshooting/releases/download/v1.0/com.firstrowria.pushnotificationtester_2.9.apk) or from the PlayStore.
 Start the app it should actually be everywhere a checkmark is unfortunately not at register .....Push how do we solve this?
 Very easy go in the microg settings under cloud messaging tap right on the points ... Advanced and activate new apps confirm then restart.
 Go back to the microg settings and activate the three points under the account again start Push Nonfiction app again if there is no message restart the phone again.
