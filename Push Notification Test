@@ -1,1 +1,18 @@
-W.I.P
+Apps are not receiving Push messages
+
+go to microG Settings / Google Cloud Messaging and check if it is connected
+ensure you don't have an adblocker blocking the domain mtalk.google.com it is required for GCM to work
+when using Titanium Backup or OAndBackupX first install the app only (without data) and start it, this will register the app, afterwards restore it's data
+when restoring the ROM from a TWRP backup GCM registration for apps is sometimes broken. You may use the following command to reset GCM/FCM connection(s). App(s) will re-register when launched afterwards:
+
+nutl -r APPID (eg.: APPID = com.nianticlabs.pokemongo) or nutl -r (for all applications)
+
+if you can't make any app registering for Google Cloud Messaging, try the following
+
+open the Phone app and dial the following: *#*#2432546#*#* (or  *#*#CHECKIN#*#*)
+
+For this I download the app push notification tester <<< [Push Notification Tester]https://m.apkpure.com/de/push-notification-tester/com.firstrowria.pushnotificationtester) or from the PlayStore.
+Start the app it should actually be everywhere a checkmark is unfortunately not at register .....Push how do we solve this?
+Very easy go in the microg settings under cloud messaging tap right on the points ... Advanced and activate new apps confirm then restart.
+Go back to the microg settings and activate the three points under the account again start Push Nonfiction app again if there is no message restart the phone again.
+Look again into microg settings if everything is still activated, I had to restart 2-3 times until the push notifiction permission pop-up appeared
