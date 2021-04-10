@@ -6,7 +6,7 @@ Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstor
 
 3. Download the required two files 
 
-    3.1 [Nanodroid](https://github.com/los-legacy/Troubleshooting/releases/download/v1.0/NanoDroid-microG-23.1.2.20210117.zip)
+    3.1 [Nanodroid](https://github.com/los-legacy/Troubleshooting/releases/download/v1.0/nanodroid.patched.playstore.only.zip)
 
     3.2 [microG_Installer_Revived](https://github.com/los-legacy/Troubleshooting/releases/download/v1.0/microG_Installer_Revived-Revived_1.11.0-0.11100.zip/)
 
@@ -17,7 +17,7 @@ Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstor
 8. Install now the downloaded microg_installer_Revived then reboot the system 
 (this is the current version 1.11.0-0 of nift4 (prev. Hieu Van) which is available via magisk )
 9. The system should now boot which it does 100%. 
-and PlayStore + AuroraStore should be present because I edit the entry to 30 in nanodroid setup
+and PlayStore should be present because I edit the entry to 10 in nanodroid setup
 10. Go into the microg settings, do a self check everything should be fine (if not granted the permissions)
 11. activate all three points under the account settings otherwise there is an error message in the PlayStore
 12. So now let's open the playstore and log in, this should also works
