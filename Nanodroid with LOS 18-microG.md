@@ -36,8 +36,6 @@ and PlayStore should be present because I edit the entry to 10 in nanodroid setu
 
 13. To be able to install the purchase apps you have to tap 7 times on Playstore version until it comes that you are a developer
 
-Screenshots you can see here 
-https://android-freaks.de/forum/thread/470-lineageos-18-1-microg-f%C3%BCr-samsung-s7-flat-edge-via-ota-by-exodusnick/?postID=9283#post9283
 
 ** If magisk reported magisk is not installed, flash magisk again. 
 if magisk reported app is not installed install the app again
