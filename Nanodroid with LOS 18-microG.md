@@ -1,3 +1,7 @@
+![Download](https://user-images.githubusercontent.com/24758741/114311822-97877e80-9af0-11eb-9455-6c300e30a8b3.png)
+
+
+
 Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstore
 
 1. Install rom and magisk then reboot
