@@ -5,9 +5,7 @@
 Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstore
 
 1. Install rom and magisk then reboot
-
 2. Set up Lineage OS , do not make microg settings
-
 3. Download the required two files 
 
     3.1 [Nanodroid](https://github.com/los-legacy/Troubleshooting/releases/download/v1.0/nanodroid.patched.playstore.only.zip)
@@ -24,14 +22,11 @@ Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstor
 
 9. The system should now boot which it does 100%. 
 and PlayStore should be present because I edit the entry to 10 in nanodroid setup
-
 10. Go into the microg settings, do a self check everything should be fine (if not granted the permissions)
-
 11. activate all three points under the account settings otherwise there is an error message in the PlayStore
-
 12. So now let's open the playstore and log in, this should also works
-
 13. To be able to install the purchase apps you have to tap 7 times on Playstore version until it comes that you are a developer
 
 
-** If magisk reported magisk is not installed, flash magisk again. if magisk reported app is not installed install the app again
+** If magisk reported magisk is not installed, flash magisk again. 
+if magisk reported app is not installed install the app again
