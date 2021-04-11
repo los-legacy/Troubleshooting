@@ -26,11 +26,16 @@ Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstor
 ![Screenshot_2021-04-09-22-59-03 (1)](https://user-images.githubusercontent.com/24758741/114312197-1af59f80-9af2-11eb-96e4-de41ff4a9da0.png)
 
 (this is the current version 1.11.0-0 of nift4 (prev. Hieu Van) which is available via magisk )
+
 9. The system should now boot which it does 100%. 
 and PlayStore should be present because I edit the entry to 10 in nanodroid setup
+
 10. Go into the microg settings, do a self check everything should be fine (if not granted the permissions)
+
 11. activate all three points under the account settings otherwise there is an error message in the PlayStore
+
 12. So now let's open the playstore and log in, this should also works
+
 13. To be able to install the purchase apps you have to tap 7 times on Playstore version until it comes that you are a developer
 
 
