@@ -23,8 +23,6 @@ Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstor
 7. You should be in the twrp now
 
 8. Install now the downloaded microg_installer_Revived then reboot the system 
-![Screenshot_2021-04-09-22-59-03 (1)](https://user-images.githubusercontent.com/24758741/114313791-48454c00-9af8-11eb-829f-d3b2074e654e.png)
- 
 (this is the current version 1.11.0-0 of nift4 (prev. Hieu Van) which is available via magisk )
 
 9. The system should now boot which it does 100%. 
