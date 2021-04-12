@@ -17,8 +17,10 @@ Instructions how to run on lineageos 18.1 microG with Nanodroid Patched Playstor
 4. Open the Magisk Manager and go the to module tab**
 
 5. Select install from internal storage and select the nanodroid.zip, if its finish tap on reboot
-[<img src="https://user-images.githubusercontent.com/15938117/114339341-3c3ba780-9b55-11eb-8c94-7416e8fbee73.png"
- height="256">]
+
+<img src="https://user-images.githubusercontent.com/15938117/114339341-3c3ba780-9b55-11eb-8c94-7416e8fbee73.png"
+ height="256">
+ 
 6. This cause maybe a "bootloop" but its boots automatically into twrp (2-3 minutes)
 
 7. You should be in the twrp now
